@@ -6,13 +6,14 @@ Los apuntes fueron realizados durante la cursada, tomando como fuentes las diapo
 
 [Link a la carpeta de Drive](https://drive.google.com/drive/folders/12mahtMmSeM1rZoMSofZdtmvXbRpi1dVt?usp=sharing)
 
-Cursé la carrera desde 2018 (CBC) hasta 2024/2025.
+Cursé la carrera desde 2018 (CBC) hasta 2024/2025 con el Plan 1986. No obstante, en el nuevo plan 2020 muchas materias son iguales y los apuntes pueden servir.
 
-En el Excel adjunto se detalla qué materias están cargadas y cuándo fueron cursadas.
+En la siguiente [Tabla](Listado%20de%20Materias.png) se detalla qué materias están cargadas y cuándo fueron cursadas.
 
-Muchos éxitosen la cursada! 😁🙌
+Muchos éxitos en la cursada! 😁🙌
 
 PD: Si te sirvió el material se agradece si queres retribuir el esfuerzo 😉: *juampi.quijano.mp*
 
 PD2: Si sos mecánico fijate que tengo repositorios de muchas más materias nuestras, chequealos 😉.
 
+![Listado de materias cargadas en el Drive](Listado%20de%20Materias.png)
