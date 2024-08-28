@@ -1,5 +1,7 @@
 # Ingeniería Mecánica - Plan 1986
 
+*Actualizado al 28/08/2024.*
+
 En este repositorio vas a encontrar apuntes, exámenes, TPs y ejercicios resueltos de la mayoría de **materias obligatorias de la carrera Ingeniería Mecánica** de la UBA.
 También se incluyen carpetas de algunas **materias optativas**.
 Los apuntes fueron realizados durante la cursada, tomando como fuentes las diapositivas de clase y bibliografía de la cátedra. Algunos son mejores que otros, es cuestión de encontrar alguno que te sirva.
